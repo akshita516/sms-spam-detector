@@ -1,6 +1,6 @@
                                               SPAM SMS DETECTION
 
-
+The sms-spam-detection model is present in master branch and the model is deployed using flask. This flask application is pushed into the main branch of the repository.
                                                                                     
 **OBJECTIVE:**
 The objective of this project is to develop a SMS classification model using natural language processing and Naïve Bayes classifier that identifies spam messages.
@@ -112,3 +112,5 @@ a)	Model accuracy: ~97%
 b)	Macro F1 score: >97%
 
 c)	Observations: High precision and recall indicate a low number of false positives and false negatives, making the model reliable for spam detection.
+
+Click on this link to access the website: https://sms-spam-detector-rymz.onrender.com/
